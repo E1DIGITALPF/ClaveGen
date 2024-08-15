@@ -1,4 +1,4 @@
-# ClaveGen v2.0
+# ClaveGen 3
 
 ## Descripción
 ClaveGen es una aplicación de generación de contraseñas desarrollada en Python utilizando la interfaz gráfica de usuario proporcionada por Tkinter. Esta aplicación te permite generar contraseñas seguras y copiarlas al portapapeles de manera rápida y sencilla.
