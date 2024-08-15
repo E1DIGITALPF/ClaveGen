@@ -22,8 +22,11 @@ Al cerrar la aplicación, la contraseña generada se eliminará automáticamente
 - Biblioteca Tkinter (generalmente incluida con la instalación de Python)
 - Biblioteca Pyperclip
 
-## Instrucciones de ejecución
+## Instrucciones de ejecución desde el editor de código
 1. Baja el código, descomprimelo en una carpeta y dentro de ella corre `pip install -r requirements.txt`.
 2. Una vez instalados los requerimientos, ejecuta el script.
 3. Se abrirá una ventana con la interfaz de usuario de ClaveGen.
 4. Sigue las instrucciones anteriores para generar y copiar contraseñas.
+
+## Se incluye ejecutable compatible con Windows
+En la carpeta dist puede descargárselo y utilizarlo, también está disponible en [Google Drive](https://drive.google.com/file/d/1MbK_iUYRgyKxIDXEc3hx11_zH9t0JbpF/view?usp=sharing).
