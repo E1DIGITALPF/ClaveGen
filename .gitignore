@@ -1,4 +1,7 @@
+# Entorno virtual (se recomienda para desarrollo)
 /venv
+# Carpetas de assets para compilación de ejecutable. Se generan automát. con Pyinstaller
 /build
+/dist
+# Archivo de cfg para Pyinstaller
 /ClaveGen.spec
-/dist/ClaveGen
