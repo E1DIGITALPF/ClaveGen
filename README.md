@@ -29,4 +29,4 @@ Al cerrar la aplicación, la contraseña generada se eliminará automáticamente
 4. Sigue las instrucciones anteriores para generar y copiar contraseñas.
 
 ## Se incluye ejecutable compatible con Windows
-En la carpeta dist puede descargárselo y utilizarlo, también está disponible en [Google Drive](https://drive.google.com/file/d/1EAeh2zTLCzFYGOQXlbVbA9Pr3oEgkIYU/view?usp=sharing).
+En la carpeta dist puede descargárselo y utilizarlo, también está disponible en [Terabox](https://terabox.com/s/1gwuvNj_YnslcrdY4KlsGLQ).
