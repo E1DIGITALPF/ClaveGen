@@ -27,4 +27,4 @@ Al cerrar la aplicación, la contraseña generada se eliminará automáticamente
 4. Sigue las instrucciones anteriores para generar y copiar contraseñas.
 
 ## Se incluye ejecutable compatible con Windows
-En la carpeta dist puede descargárselo y utilizarlo, también está disponible en [Terabox](https://terabox.com/s/1gwuvNj_YnslcrdY4KlsGLQ).
+En la carpeta dist puede descargárselo y utilizarlo, también está disponible en [por aquí](https://github.com/E1DIGITALPF/ClaveGen/raw/refs/heads/main/dist/ClaveGen.exe).
